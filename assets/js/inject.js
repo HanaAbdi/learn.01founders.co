@@ -64,7 +64,7 @@ if (location.pathname === "/") {
 
     // Video
     const htmlVideoString = `
-  <iframe width="500" height="300" src="https://www.youtube.com/embed/0CWzFx1HRvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 100px;"></iframe>
+  <iframe width="500" height="300" src="https://www.youtube.com/embed/Bq7cit8XQIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin-bottom: 100px;"></iframe>
 `;
 
     rightContent.insertAdjacentHTML("afterbegin", htmlVideoString);
